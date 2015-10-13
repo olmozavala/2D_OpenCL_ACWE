@@ -1,0 +1,212 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACTIVECONTOURS_H	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	9;"	d
+ActiveContours	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^ActiveContours::ActiveContours() {$/;"	f	class:ActiveContours
+ActiveContours	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^ActiveContours::ActiveContours(const ActiveContours& orig) {$/;"	f	class:ActiveContours
+ActiveContours	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^class ActiveContours {$/;"	c
+CAMERAMOV_H	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/CameraMovement.h	9;"	d
+CalcFrustrumScale	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/CameraMovement.cpp	/^float CameraMovement::CalcFrustrumScale(float FOVdeg)$/;"	f	class:CameraMovement
+CameraMovement	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/CameraMovement.cpp	/^CameraMovement::CameraMovement(float fzNear, float fzFar, float FOV)$/;"	f	class:CameraMovement
+CameraMovement	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/CameraMovement.h	/^class CameraMovement {$/;"	c
+CreateSamplers	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^void GLWidget::CreateSamplers() {$/;"	f	class:GLWidget
+DeleteBuffers	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^void GLWidget::DeleteBuffers(){$/;"	f	class:GLWidget
+FPSMOV_H	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/FPSMovement.h	9;"	d
+FPSMovement	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/FPSMovement.cpp	/^FPSMovement::FPSMovement(const FPSMovement& orig) :CameraMovement(orig)$/;"	f	class:FPSMovement
+FPSMovement	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/FPSMovement.cpp	/^FPSMovement::FPSMovement(float fzNear, float fzFar, float FOV) : CameraMovement(fzNear,fzFar, FOV)$/;"	f	class:FPSMovement
+FPSMovement	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/FPSMovement.h	/^class FPSMovement : public CameraMovement{$/;"	c
+GLWidget	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^GLWidget::GLWidget(QWidget *parent) : QGLWidget(parent) {$/;"	f	class:GLWidget
+GLWidget	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^class GLWidget : public QGLWidget {$/;"	c
+InitActiveCountours	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^void GLWidget::InitActiveCountours() {$/;"	f	class:GLWidget
+InitTextures	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^void GLWidget::InitTextures() {$/;"	f	class:GLWidget
+InitializeProgram	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^void GLWidget::InitializeProgram() {$/;"	f	class:GLWidget
+InitializeSimpleVertexBuffer	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^void GLWidget::InitializeSimpleVertexBuffer() {$/;"	f	class:GLWidget
+InitializeVertexBuffer	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^void GLWidget::InitializeVertexBuffer() {$/;"	f	class:GLWidget
+Keyboard	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/FPSMovement.cpp	/^void FPSMovement::Keyboard(unsigned char key, int x, int y)$/;"	f	class:FPSMovement
+MButton	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/FPSMovement.cpp	/^void FPSMovement::MButton(int button, int state, int x, int y)$/;"	f	class:FPSMovement
+MMotion	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/FPSMovement.cpp	/^void FPSMovement::MMotion(int x, int y)$/;"	f	class:FPSMovement
+MainWindow	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/ui_MainWindow.h	/^    class MainWindow: public Ui_MainWindow {};$/;"	c	namespace:Ui
+MainWindowOZ	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/MainWindowOZ.h	/^class MainWindowOZ : public QMainWindow {$/;"	c
+MainWindowOZ	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/src/MainWindowOZ.cpp	/^MainWindowOZ:: MainWindowOZ(QMainWindow *parent): QMainWindow(parent){$/;"	f	class:MainWindowOZ
+ProgramData	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^struct ProgramData {$/;"	s
+Reshape	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/CameraMovement.cpp	/^void CameraMovement::Reshape(int w, int h)$/;"	f	class:CameraMovement
+SDFOZ	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	28;"	d
+SDFVORO	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	29;"	d
+SDFmethod	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    int SDFmethod;$/;"	m	class:ActiveContours
+SelectImage	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^void GLWidget::SelectImage() {$/;"	f	class:GLWidget
+UI_MAINWINDOW_H	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/ui_MainWindow.h	10;"	d
+Ui	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/ui_MainWindow.h	/^namespace Ui {$/;"	n
+Ui_MainWindow	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/ui_MainWindow.h	/^class Ui_MainWindow$/;"	c
+_GLWIDGET_H	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	2;"	d
+_MAINWINDOW_H	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/MainWindowOZ.h	9;"	d
+__CL_ENABLE_EXCEPTIONS	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	11;"	d
+acExample	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    int acExample;$/;"	m	class:GLWidget
+acIterate	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    bool acIterate;$/;"	m	class:GLWidget
+actionFile	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/ui_MainWindow.h	/^    QAction *actionFile;$/;"	m	class:Ui_MainWindow
+actionQuit	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/ui_MainWindow.h	/^    QAction *actionQuit;$/;"	m	class:Ui_MainWindow
+alpha	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    float alpha;$/;"	m	class:ActiveContours
+appendStr	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^inline std::string appendStr(char* prev, char* post) {$/;"	f
+arr_avgInOutByGrp	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    float* arr_avgInOutByGrp;$/;"	m	class:ActiveContours
+arr_buf_mask	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^	float* arr_buf_mask;$/;"	m	class:ActiveContours
+arr_img_in	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    float* arr_img_in;$/;"	m	class:ActiveContours
+arr_img_out	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    float* arr_img_out;$/;"	m	class:ActiveContours
+arr_img_phi	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    float* arr_img_phi;$/;"	m	class:ActiveContours
+arr_max_F	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    float* arr_max_F;$/;"	m	class:ActiveContours
+arr_max_dphidt	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    float* arr_max_dphidt;$/;"	m	class:ActiveContours
+buf_F	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Buffer buf_F;$/;"	m	class:ActiveContours
+buf_avg_in_out	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Buffer buf_avg_in_out;$/;"	m	class:ActiveContours
+buf_img_in	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Buffer buf_img_in;$/;"	m	class:ActiveContours
+buf_mask	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^	cl::Buffer buf_mask;$/;"	m	class:ActiveContours
+buf_max_dphidt	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Buffer buf_max_dphidt;$/;"	m	class:ActiveContours
+buf_sdf	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^	cl::Buffer buf_sdf;$/;"	m	class:ActiveContours
+camMatrix	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/CameraMovement.h	/^    glm::mat4 camMatrix;\/\/Original perspective matrix$/;"	m	class:CameraMovement
+camera	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    CameraMovement* camera;$/;"	m	class:GLWidget
+cameraToClipMatrixUnif	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    GLuint cameraToClipMatrixUnif;$/;"	m	struct:ProgramData
+centralwidget	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/ui_MainWindow.h	/^    QWidget *centralwidget;$/;"	m	class:Ui_MainWindow
+clMan	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    CLManager clMan;$/;"	m	class:ActiveContours
+clObj	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    ActiveContours clObj;$/;"	m	class:GLWidget
+cl_textures	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^	std::vector<cl::Memory> cl_textures;$/;"	m	class:ActiveContours
+compArrMaxReduction	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^cl::Event ActiveContours::compArrMaxReduction(cl::Buffer& buf_in, int curr_size, bool absVal,$/;"	f	class:ActiveContours
+compAvgInAndOut	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^cl::Event ActiveContours::compAvgInAndOut(cl::Image2D& img_phi, cl::Image2D& img_in,$/;"	f	class:ActiveContours
+compCurvAndF	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^cl::Event ActiveContours::compCurvAndF(vector<cl::Event> vecEvPrev, bool useAllBands) {$/;"	f	class:ActiveContours
+compDphiDt	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^cl::Event ActiveContours::compDphiDt(vector<cl::Event> vecEvPrev) {$/;"	f	class:ActiveContours
+compImgMaxReduction	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^cl::Event ActiveContours::compImgMaxReduction(cl::Image2D& img, vector<cl::Event> vecEvPrev,$/;"	f	class:ActiveContours
+compNewPhi	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^cl::Event ActiveContours::compNewPhi(vector<cl::Event> vecEvPrev) {$/;"	f	class:ActiveContours
+context	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Context* context;$/;"	m	class:ActiveContours
+copyBufToImg	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^cl::Event ActiveContours::copyBufToImg(cl::Buffer& buf, cl::Image2D& img, vector<cl::Event> vecEvPrev, bool bufHasAllBands) {$/;"	f	class:ActiveContours
+copySegToText	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^void ActiveContours::copySegToText() {$/;"	f	class:ActiveContours
+copyTextToBuf	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^cl::Event ActiveContours::copyTextToBuf(cl::Image2DGL& text, cl::Buffer& buf, vector<cl::Event> vecEvPrev) {$/;"	f	class:ActiveContours
+createRGBAMask	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^void ActiveContours::createRGBAMask(int width, int height, int xstart, int xend,$/;"	f	class:ActiveContours
+currIter	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    int currIter;$/;"	m	class:GLWidget
+currIter	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    int currIter; \/\/Current iteration of the algorithm$/;"	m	class:ActiveContours
+displaySegmentation	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    bool displaySegmentation;$/;"	m	class:GLWidget
+ebo	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    GLuint ebo; \/\/Element buffer object$/;"	m	class:GLWidget
+endXmask	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    float endXmask;$/;"	m	class:GLWidget
+endYmask	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    float endYmask;$/;"	m	class:GLWidget
+err	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl_int err;$/;"	m	class:ActiveContours
+evAcOGL	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^	cl::Event evAcOGL; \/\/Event to aquire the input texture from OpenGL$/;"	m	class:ActiveContours
+evAvgInOut	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Event evAvgInOut;$/;"	m	class:ActiveContours
+evCurvAndF	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Event evCurvAndF;$/;"	m	class:ActiveContours
+evDphiDt	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Event evDphiDt;$/;"	m	class:ActiveContours
+evImgInWrt	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Event evImgInWrt; \/\/Event for writing the 'in' image$/;"	m	class:ActiveContours
+evImgSegWrt	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Event evImgSegWrt; \/\/Wevent for writing the 'mask' image$/;"	m	class:ActiveContours
+evMaxDphiDt	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Event evMaxDphiDt;$/;"	m	class:ActiveContours
+evMaxF	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Event evMaxF;$/;"	m	class:ActiveContours
+evNewPhi	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Event evNewPhi;$/;"	m	class:ActiveContours
+evSDF	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Event evSDF;$/;"	m	class:ActiveContours
+evSmoothPhi	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Event evSmoothPhi;$/;"	m	class:ActiveContours
+eventFilter	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/src/MainWindowOZ.cpp	/^bool MainWindowOZ::eventFilter(QObject *o, QEvent *event){$/;"	f	class:MainWindowOZ
+fFrustumScale	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/CameraMovement.h	/^    float fFrustumScale;$/;"	m	class:CameraMovement
+firstTimeImageSelected	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^	bool firstTimeImageSelected; \/\/Indicates if it is the first time an image has been selected$/;"	m	class:GLWidget
+fragmentShader	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    QGLShader *vertexShader, *fragmentShader;$/;"	m	class:GLWidget
+g_program	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    ProgramData g_program;$/;"	m	class:GLWidget
+getCameraMatrix	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/CameraMovement.cpp	/^glm::mat4 CameraMovement::getCameraMatrix(){$/;"	f	class:CameraMovement
+glWidget	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/MainWindowOZ.h	/^	GLWidget *glWidget;$/;"	m	class:MainWindowOZ
+grp_size_x	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    int grp_size_x; \/\/ Default group size on x. $/;"	m	class:ActiveContours
+grp_size_y	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    int grp_size_y; \/\/ Default group size on y.$/;"	m	class:ActiveContours
+height	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    int height;$/;"	m	class:GLWidget
+height	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    int height;$/;"	m	class:ActiveContours
+hsize	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    float hsize;$/;"	m	class:GLWidget
+imageSelected	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    bool imageSelected;$/;"	m	class:GLWidget
+img_curv_F	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Image2D img_curv_F;$/;"	m	class:ActiveContours
+img_dphidt	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Image2D img_dphidt;$/;"	m	class:ActiveContours
+img_in	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Image2D img_in;$/;"	m	class:ActiveContours
+img_in_gl	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Image2DGL img_in_gl;$/;"	m	class:ActiveContours
+img_mask	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Image2D img_mask;$/;"	m	class:ActiveContours
+img_newphi	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Image2D img_newphi;$/;"	m	class:ActiveContours
+img_phi	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Image2D img_phi;$/;"	m	class:ActiveContours
+img_phi_gl	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Image2DGL img_phi_gl;$/;"	m	class:ActiveContours
+init	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^void ActiveContours::init(int SDFmethod, char* inputFile, char* outputFile,$/;"	f	class:ActiveContours
+init	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^void GLWidget::init() {$/;"	f	class:GLWidget
+initImagesArraysAndBuffers	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^void ActiveContours::initImagesArraysAndBuffers(GLuint& tbo_in, GLuint& tbo_out) {$/;"	f	class:ActiveContours
+initializeGL	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^void GLWidget::initializeGL() {$/;"	f	class:GLWidget
+inputImage	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    char* inputImage;$/;"	m	class:GLWidget
+iterStep	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    int iterStep;$/;"	m	class:GLWidget
+iterate	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^void ActiveContours::iterate(int numIterations, bool useAllBands) {$/;"	f	class:ActiveContours
+keyPressEvent	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^void GLWidget::keyPressEvent(QKeyEvent* event) {$/;"	f	class:GLWidget
+keyPressEvent	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/src/MainWindowOZ.cpp	/^void MainWindowOZ::keyPressEvent(QKeyEvent* event) {$/;"	f	class:MainWindowOZ
+loadImage	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^void ActiveContours::loadImage(char* inputFile, char* outputFile, int locwidth, int locheight){$/;"	f	class:ActiveContours
+loadProgram	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^void ActiveContours::loadProgram(int SDFmethod, int iter, float alpha, float dt) {$/;"	f	class:ActiveContours
+main	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/main.cpp	/^int main(int argc, char *argv[]) {$/;"	f
+mask	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    int* mask;$/;"	m	class:GLWidget
+maxActCountIter	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    int maxActCountIter;$/;"	m	class:GLWidget
+max_warp_size	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    int max_warp_size;$/;"	m	class:ActiveContours
+menuFile	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/ui_MainWindow.h	/^    QMenu *menuFile;$/;"	m	class:Ui_MainWindow
+menubar	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/ui_MainWindow.h	/^    QMenuBar *menubar;$/;"	m	class:Ui_MainWindow
+modelMatrix	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    glm::mat4 modelMatrix;$/;"	m	class:GLWidget
+modelToCameraMatrixUnif	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    GLuint modelToCameraMatrixUnif;$/;"	m	class:GLWidget
+mouseMoveEvent	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^void GLWidget::mouseMoveEvent(QMouseEvent *event) {$/;"	f	class:GLWidget
+mousePressEvent	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^void GLWidget::mousePressEvent(QMouseEvent *event) {$/;"	f	class:GLWidget
+mouseReleaseEvent	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^void GLWidget::mouseReleaseEvent(QMouseEvent *event) {$/;"	f	class:GLWidget
+newMask	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    bool newMask;$/;"	m	class:GLWidget
+offsets	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    glm::vec3 offsets[1];$/;"	m	class:GLWidget
+on_actionFile_activated	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/src/MainWindowOZ.cpp	/^void MainWindowOZ::on_actionFile_activated(){$/;"	f	class:MainWindowOZ
+on_actionQuit_activated	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/src/MainWindowOZ.cpp	/^void MainWindowOZ::on_actionQuit_activated(){$/;"	f	class:MainWindowOZ
+origin	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::size_t < 3 > origin;$/;"	m	class:ActiveContours
+outputFile	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    char* outputFile; \/\/Final png file with the segmentation$/;"	m	class:ActiveContours
+outputImage	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    char* outputImage;$/;"	m	class:GLWidget
+paintGL	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^void GLWidget::paintGL() {$/;"	f	class:GLWidget
+program	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::Program* program;$/;"	m	class:ActiveContours
+queue	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::CommandQueue* queue;$/;"	m	class:ActiveContours
+region	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl::size_t < 3 > region;$/;"	m	class:ActiveContours
+res	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    cl_int res;$/;"	m	class:ActiveContours
+resizeGL	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^void GLWidget::resizeGL(int w, int h) {$/;"	f	class:GLWidget
+retranslateUi	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/ui_MainWindow.h	/^    void retranslateUi(QMainWindow *MainWindow)$/;"	f	class:Ui_MainWindow
+runSDF	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^void ActiveContours::runSDF() {$/;"	f	class:ActiveContours
+sampler	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    GLuint sampler;$/;"	m	class:GLWidget
+samplerID	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    GLuint samplerID[1];$/;"	m	class:GLWidget
+setupUi	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/ui_MainWindow.h	/^    void setupUi(QMainWindow *MainWindow)$/;"	f	class:Ui_MainWindow
+shaderProg	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    QGLShaderProgram *shaderProg;$/;"	m	class:GLWidget
+simpleFragProgram	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    GLuint simpleFragProgram;$/;"	m	struct:ProgramData
+size	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^const float size = .9;$/;"	v
+smoothPhi	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^cl::Event ActiveContours::smoothPhi(vector<cl::Event> vecEvPrev, float alpha) {$/;"	f	class:ActiveContours
+startXmask	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    float startXmask;$/;"	m	class:GLWidget
+startYmask	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    float startYmask;$/;"	m	class:GLWidget
+statusbar	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/ui_MainWindow.h	/^    QStatusBar *statusbar;$/;"	m	class:Ui_MainWindow
+tbo_in	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    GLuint tbo_in; \/\/Texture buffer object$/;"	m	class:GLWidget
+tbo_out	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    GLuint tbo_out; \/\/Texture buffer object$/;"	m	class:GLWidget
+textCoords	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^float textCoords[] = {$/;"	v
+textUnit	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    GLuint textUnit;$/;"	m	class:GLWidget
+theProgram	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    GLuint theProgram;$/;"	m	struct:ProgramData
+to_string	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^inline std::string to_string(char* prev, const T& t, char* post) {$/;"	f
+tot_grps_x	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    int tot_grps_x;$/;"	m	class:ActiveContours
+tot_grps_y	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    int tot_grps_y;$/;"	m	class:ActiveContours
+totalIterations	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    int totalIterations;$/;"	m	class:ActiveContours
+ts	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    Timings ts;$/;"	m	class:GLWidget
+ui	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/MainWindowOZ.h	/^	Ui::MainWindow ui;$/;"	m	class:MainWindowOZ
+updatingROI	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    bool updatingROI;$/;"	m	class:GLWidget
+useAllBands	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    bool useAllBands;$/;"	m	class:GLWidget
+usingOGL	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^	bool usingOGL;$/;"	m	class:ActiveContours
+vaoID	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    GLuint vaoID;$/;"	m	class:GLWidget
+vaoSimpleID	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    GLuint vaoSimpleID;\/\/Just used to display ROI$/;"	m	class:GLWidget
+vbo_color	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    GLuint vbo_color;$/;"	m	class:GLWidget
+vbo_pos	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    GLuint vbo_pos;$/;"	m	class:GLWidget
+vbo_selection	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    GLuint vbo_selection;$/;"	m	class:GLWidget
+vbo_tcord	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    GLuint vbo_tcord;$/;"	m	class:GLWidget
+vecEvAvg	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    vector<cl::Event> vecEvAvg;$/;"	m	class:ActiveContours
+vecEvCurvF	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    vector<cl::Event> vecEvCurvF;$/;"	m	class:ActiveContours
+vecEvDphiDt	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    vector<cl::Event> vecEvDphiDt;$/;"	m	class:ActiveContours
+vecEvMaxDphiDt	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    vector<cl::Event> vecEvMaxDphiDt;$/;"	m	class:ActiveContours
+vecEvMaxF	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    vector<cl::Event> vecEvMaxF;$/;"	m	class:ActiveContours
+vecEvNewPhi	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    vector<cl::Event> vecEvNewPhi;$/;"	m	class:ActiveContours
+vecEvPrevAvgInOut	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    vector<cl::Event> vecEvPrevAvgInOut;$/;"	m	class:ActiveContours
+vecEvSDF	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    vector<cl::Event> vecEvSDF;$/;"	m	class:ActiveContours
+vecEvSmPhi	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    vector<cl::Event> vecEvSmPhi;$/;"	m	class:ActiveContours
+vecWriteImage	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    vector<cl::Event> vecWriteImage;$/;"	m	class:ActiveContours
+vertexColors	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^float vertexColors[] = {$/;"	v
+vertexIndexes	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^unsigned int vertexIndexes[] = {0, 1, 2, 3};$/;"	v
+vertexPosSelection	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^float vertexPosSelection[] = {$/;"	v
+vertexPositions	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^float vertexPositions[] = {$/;"	v
+vertexShader	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    QGLShader *vertexShader, *fragmentShader;$/;"	m	class:GLWidget
+width	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    int width;$/;"	m	class:GLWidget
+width	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/headers/ActiveContours.h	/^    int width;$/;"	m	class:ActiveContours
+winHeight	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    int winHeight;$/;"	m	class:GLWidget
+winWidth	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    int winWidth;$/;"	m	class:GLWidget
+z	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/headers/GLWidget.h	/^    float z;$/;"	m	class:GLWidget
+zval	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/GLWidget.cpp	/^const float zval = 1; \/\/Bigger the number farther away$/;"	v
+~ActiveContours	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/ActiveContours.cpp	/^ActiveContours::~ActiveContours() {$/;"	f	class:ActiveContours
+~FPSMovement	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/FPSMovement.cpp	/^FPSMovement::~FPSMovement() $/;"	f	class:FPSMovement
+~MainWindowOZ	/home/olmozavala/Dropbox/OzOpenCL/ActiveCountoursImg/src/forms/src/MainWindowOZ.cpp	/^MainWindowOZ::~MainWindowOZ() {$/;"	f	class:MainWindowOZ
