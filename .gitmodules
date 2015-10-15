@@ -1,0 +1,3 @@
+[submodule "2D_OpenCL_SDF"]
+	path = 2D_OpenCL_SDF
+	url = git@github.com:olmozavala/2D_OpenCL_SDF.git
