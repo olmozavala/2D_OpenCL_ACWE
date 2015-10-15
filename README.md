@@ -21,6 +21,9 @@ Then you cd into the folder and add the submodules with:
     
     git submodule update --init --recursive
 
+# Update submodules
+
+
 # Build
 This code has been tested with different flavors of Ubuntu and Nvidia cards. 
 It uses the FreeImage library for image manipulation and premake4
