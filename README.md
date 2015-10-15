@@ -1,4 +1,4 @@
-OpenCL Active Contours Without edges
+OenCL Active Contours Without edges
 ====
 
 This is an OpenCL implementation that computes the 2D Active Contours Without Edges. 
@@ -34,6 +34,10 @@ to build the project. In ubuntu this two libraries can be installed with:
 Verify that the path of OPENCL in the 'premake4.lua' file
 corresponds to the location of your opencl installation. In my case
 it is set to '/usr/local/cuda'.
+
+First  compile the submodules with:
+
+    sh submodules_compile.sh
 
 To compile the code you just need to run:
 
