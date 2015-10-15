@@ -21,9 +21,6 @@ Then you cd into the folder and add the submodules with:
     
     git submodule update --init --recursive
 
-# Update submodules
-
-
 # Build
 This code has been tested with different flavors of Ubuntu and Nvidia cards. 
 It uses the FreeImage library for image manipulation and premake4
@@ -68,3 +65,10 @@ are very important:
     'I' -> To start and stop iterations of the algorithm (once the ROI has been selected) 
     'B' -> To alternate between using all or one of the image channesl
     'S' -> Selects a new image. 
+
+# Update submodules
+If something gets updated into one of the repositories, you can
+pull the changes by cd into the folder and doing normal pull.
+
+    cd 2D_OpenCL_SDF
+    git pull origin master
